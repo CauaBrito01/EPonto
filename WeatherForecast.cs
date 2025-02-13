@@ -1,4 +1,4 @@
-namespace EPonto
+namespace Web
 {
     public class WeatherForecast
     {
